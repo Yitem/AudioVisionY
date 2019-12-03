@@ -1,0 +1,54 @@
+#principal{
+					
+				border: solid 3px purple;
+				
+	}
+				
+#images{
+	float:right;
+}
+
+			
+html{
+
+	background: #6D2E46;
+
+}			
+			
+body{
+	
+	background:url(images5.jpg);
+	margin: 50px;
+	border: solid 1px black;
+	padding: 15px;
+}
+
+.contenedor{
+	max-width: 800%;
+	margin: auto;
+}
+
+header .navegador{
+	padding: 5px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	background: #948392;
+	
+}
+
+header .navegador .logo{
+	font-size: 45px;
+	color: #fff;
+
+}
+
+		
+
+
+	
+			
+			
+			
